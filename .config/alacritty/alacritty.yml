@@ -1,0 +1,63 @@
+# Window
+window:
+  padding:
+    x: 0
+    y: 0
+  opacity: 1
+  
+# TokyoNight Alacritty Colors
+# https://github.com/folke/tokyonight.nvim/blob/main/extras/alacritty_tokyonight_night.yml
+colors:
+  name: TokyoNight Night
+  author: Folke
+  # Default colors
+  primary:
+    #background: '0x000000'
+    background: '0x1f1f28'
+    foreground: '0xc0caf5'
+
+  # Normal colors
+  normal:
+    black:   '0x15161E'
+    red:     '0xf7768e'
+    green:   '0x9ece6a'
+    yellow:  '0xe0af68'
+    blue:    '0x7aa2f7'
+    magenta: '0xbb9af7'
+    cyan:    '0x7dcfff'
+    white:   '0xa9b1d6'
+
+  # Bright colors
+  bright:
+    black:   '0x414868'
+    red:     '0xf7768e'
+    green:   '0x9ece6a'
+    yellow:  '0xe0af68'
+    blue:    '0x7aa2f7'
+    magenta: '0xbb9af7'
+    cyan:    '0x7dcfff'
+    white:   '0xc0caf5'
+
+  indexed_colors:
+    - { index: 16, color: '0xff9e64' }
+    - { index: 17, color: '0xdb4b4b' }
+draw_bold_text_with_bright_colors: true
+
+# Fonts
+font:
+  normal:
+    family: Fira Code Nerd Font
+    style: Regular
+  bold:
+    family: Fira Code Nerd Font
+    style: Bold
+  italic:
+    family: Fira Code Nerd Font
+    style: Italic
+  bold_italic:
+    family: Fira Code Nerd Font
+    style: Bold Italic
+  size: 11
+
+shell:
+  program: /usr/bin/fish
