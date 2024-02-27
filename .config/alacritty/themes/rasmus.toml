@@ -1,5 +1,6 @@
 # Rasmus color theme
 [colors]
+draw_bold_text_with_bright_colors = true
   [colors.primary]
     background = '#1a1a19'
     foreground = '#d1d1d1'
