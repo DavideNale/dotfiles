@@ -3,6 +3,7 @@ theme = "rasmus"
 [editor]
 line-number = "relative"
 bufferline = "always"
+cursorline = true
 
 [editor.cursor-shape]
 insert = "bar"
