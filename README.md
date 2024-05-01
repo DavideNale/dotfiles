@@ -1,13 +1,13 @@
 This repository contains my personal dotfiles and configuration settings for by ideal Arch linux setup.
 
 # Overview
-- **WM**: `hyprland`
-- **Terminal Emulator**: `alacritty`
-- **Color Scheme**: `rasmus`
-- **Editor**: `helix`
-- **Shell**: `fish`
-- **Shell Prompt**: `starship`
-- **File Manager**: `lf`
+- WM: `hyprland`
+- Terminal Emulator: `alacritty`
+- Color Scheme: `rasmus`
+- Editor: `helix`
+- Shell: `fish`
+- Shell Prompt: `starship`
+- File Manager: `lf`
 
 # Screenshots
 ![](.screenshots/system.png)
