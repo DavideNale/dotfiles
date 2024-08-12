@@ -4,6 +4,7 @@ cd ~
 
 export EDITOR=helix
 export XCURSOR_SIZE=24
+export BROWSER="/usr/bin/firefox"
 
 # export _JAVA_AWT_WM_NONREPARENTING=1
 # export CLUTTER_BACKEND=wayland

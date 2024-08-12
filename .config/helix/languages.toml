@@ -1,1 +1,4 @@
-
+[[language]]
+name = "svelte"
+auto-format = true
+language-servers = [ "svelteserver", "tailwindcss-ls" ]
