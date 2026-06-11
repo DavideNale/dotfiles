@@ -5,5 +5,7 @@ cd ~
 export EDITOR=helix
 export XCURSOR_SIZE=24
 export BROWSER="/usr/bin/firefox"
+export XDG_CURRENT_DESKTOP=Hyprland
+export XDG_SESSION_TYPE=wayland
 
 exec start-hyprland

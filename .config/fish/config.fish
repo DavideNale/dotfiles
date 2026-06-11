@@ -16,4 +16,6 @@ alias py=python
 alias gg=git-graph
 alias ls=exa
 alias mamba=micromamba
+alias task=go-task
 alias cc='cd (fd -H -d 5 -c always --type directory | fzf --ansi --layout reverse --tiebreak length,chunk)'
+alias reload='source ~/.config/fish/config.fish'
